@@ -1,5 +1,5 @@
 # FLOOD Group 2
-This repository contains the files, folders and other documents implemented and used during the FLOOD Project for [CEGM2003-DSAIE Crossover Module](https://studyguide.tudelft.nl/a101_displayCourse.do?course_id=66967) carried out at TU Delft, Faculty of Civil Engineering and Geosciences during the 2023/2024 academic year.
+This repository contains the files, folders and other documents implemented and used during the FLOOD Project for [CEGM2003-DSAIE Crossover Module](https://studiegids.tudelft.nl/opleidingen/study-guide/educations/17697#/details/18849) carried out at TU Delft, Faculty of Civil Engineering and Geosciences during the 2023/2024 academic year.
 
 Group members:
 
